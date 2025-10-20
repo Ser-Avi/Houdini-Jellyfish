@@ -1,4 +1,10 @@
 # Procedural Jellyfish
+Avi Serebrenik
+
+The full res render can be found at Renders/jelly.mp4, but here is a gif version and the first frame:
+![](Renders/gif.gif)
+![](Renders/jelly.1.png)
+
 
 ## Project Overview
 In this homework, you'll create a procedural jellyfish using Houdini. This will give you a chance to dig into procedural modeling, as well as some simulation. Here is a breakdown of the different jellyfish parts you'll be putting together:
